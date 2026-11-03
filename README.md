@@ -1,4 +1,4 @@
-<!-- # Flask SQLAlchemy Workout Application Backend
+# Flask SQLAlchemy Workout Application Backend
 
 A Flask REST API for tracking workouts and reusable exercises. It uses Flask-SQLAlchemy for database models and relationships, Flask-Migrate for migrations, and Marshmallow for request validation and JSON serialization.
 
@@ -103,4 +103,4 @@ Use small, meaningful commits, for example:
 - `Add model and database validations`
 - `Add Marshmallow schemas`
 - `Implement workout and exercise endpoints`
-- `Add seed data, tests, and documentation` -->
+- `Add seed data, tests, and documentation`
